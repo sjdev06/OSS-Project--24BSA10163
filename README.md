@@ -1,6 +1,6 @@
 # The Open Source Audit: Python
 
-**Student Name:** sjdev06 <br>
+**Student Name:** SAKET JHA <br>
 **Registration Number:** 24BSA10163 <br>
 **Project Focus:** Python (FOSS Audit)
 
